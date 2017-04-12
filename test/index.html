@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="app">
+    <h1>Hello App!</h1>
+    <p>
+        <!-- 使用 router-link 组件来导航. -->
+        <!-- 通过传入 `to` 属性指定链接. -->
+        <!-- <router-link> 默认会被渲染成一个 `<a>` 标签 -->
+        <router-link to="/foo">Go to Foo</router-link>
+        <router-link to="/bar">Go to Bar</router-link>
+        <router-link :to="{ path: 'foo', query: { plan: 'private' ,a:'1'}}">Register</router-link>
+    </p>
+    <!-- 路由出口 -->
+    <!-- 路由匹配到的组件将渲染在这里 -->
+    <router-view></router-view>
+</div>
+</body>
+<script src="plugin/vue.min.js"></script>
+<script src="plugin/vue-router.js"></script>
+<script src="plugin/jquery-2.2.4.min.js"></script>
+<!--<script src="js/main.js"></script>-->
+
+<script src="plugin/traceur.js"></script><!-- 加载Traceur编译器 -->
+<script src="plugin/BrowserSystem.js"></script><!-- 加载Traceur编译器 -->
+<script src="plugin/bootstrap.js"></script><!-- 将Traceur编译器用于网页 -->
+<script type="module" src="js/main.js"></script>  <!--module类型的引入才会被编码器识别为ES6文件-->
+</html>
