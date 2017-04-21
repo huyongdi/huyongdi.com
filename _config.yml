@@ -9,7 +9,10 @@ description: 胡永迪 hexo配置域名 git 微信服务号红包 jquery右键�
 author: 胡永迪
 language: zh-Hans
 timezone:
-keywords: "前端,js,jquery,javascript,html5,开发者,程序猿,程序媛,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,html,css,css3,用户体验"
+keywords: "前端,js,jquery,javascript,html5,开发者,程序猿,程序媛,编程,代码,开源,
+          IT网站,Developer,Programmer,Coder,Geek,html,css,css3,用户体验
+          webpack 配置  jquery bootstrap
+          "
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
