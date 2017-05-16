@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc2a9b5f-4f2f-4f5f-993d-912baab94b20" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yilia" afterPath="$PROJECT_DIR$/themes/yilia" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/test/520" afterPath="$PROJECT_DIR$/themes/test/520" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yilia/_config.yml" afterPath="$PROJECT_DIR$/themes/yilia/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yilia/layout/_partial/article.ejs" afterPath="$PROJECT_DIR$/themes/yilia/layout/_partial/article.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yilia/layout/_partial/head.ejs" afterPath="$PROJECT_DIR$/themes/yilia/layout/_partial/head.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yilia/layout/_partial/post/duoshuo.ejs" afterPath="$PROJECT_DIR$/themes/yilia/layout/_partial/post/duoshuo.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yilia/source-src/css/_core.scss" afterPath="$PROJECT_DIR$/themes/yilia/source-src/css/_core.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yilia/source-src/css/_function.scss" afterPath="$PROJECT_DIR$/themes/yilia/source-src/css/_function.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yilia/source-src/css/fonts.scss" afterPath="$PROJECT_DIR$/themes/yilia/source-src/css/fonts.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yilia/source-src/css/left.scss" afterPath="$PROJECT_DIR$/themes/yilia/source-src/css/left.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yilia/source-src/css/main.scss" afterPath="$PROJECT_DIR$/themes/yilia/source-src/css/main.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yilia/source-src/css/scroll.scss" afterPath="$PROJECT_DIR$/themes/yilia/source-src/css/scroll.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yilia/source-src/css/tools.scss" afterPath="$PROJECT_DIR$/themes/yilia/source-src/css/tools.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yilia/source-src/css/tooltip.scss" afterPath="$PROJECT_DIR$/themes/yilia/source-src/css/tooltip.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yilia/source/main.2d7529.css" afterPath="$PROJECT_DIR$/themes/yilia/source/main.2d7529.css" />
-    </list>
+    <list default="true" id="bc2a9b5f-4f2f-4f5f-993d-912baab94b20" name="Default" comment="" />
     <ignored path="huyongdi.com.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -53,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/themes/landscape/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="343">
-              <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+              <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -491,7 +473,7 @@
       <workItem from="1493944441283" duration="5444000" />
       <workItem from="1494204368978" duration="1342000" />
       <workItem from="1494223107104" duration="12000" />
-      <workItem from="1494907561374" duration="7000" />
+      <workItem from="1494907561374" duration="41000" />
     </task>
     <task id="LOCAL-00001" summary="20170504">
       <created>1493886297850</created>
@@ -500,11 +482,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493886297850</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="20170504">
+      <created>1494907581288</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1494907581289</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="314398000" />
+    <option name="totallyTimeSpent" value="314432000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -517,7 +506,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24183351" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -829,7 +817,7 @@
     <entry file="file://$PROJECT_DIR$/themes/landscape/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="343">
-          <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+          <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
           <folding />
         </state>
       </provider>
