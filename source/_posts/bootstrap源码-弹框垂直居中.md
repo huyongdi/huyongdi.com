@@ -14,4 +14,8 @@ relative改为absolute
 .modal-dialog{position:absolute;width:auto;margin:10px auto;left:0;right:0;top:50%}
 定宽居中
 @media (min-width:768px){.modal-dialog{width:600px;margin:30px auto}
+
+保证动画相同
+.modal.fade .modal-dialog {-webkit-transition: -webkit-transform .3s ease-out;-o-transition: -o-transform .3s ease-out;transition: transform .3s ease-out;-webkit-transform: translate(0, -75%);-ms-transform: translate(0, -75%);-o-transform: translate(0, -75%);transform: translate(0, -75%)}
+.modal.in .modal-dialog {-webkit-transform: translate(0, -50%);-ms-transform: translate(0, -50%);-o-transform: translate(0, -50%);transform: translate(0, -50%)}
 ```
