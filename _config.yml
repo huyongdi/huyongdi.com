@@ -79,7 +79,7 @@ duoshuo_shortname: huyongdi
 deploy:
   type: git
   repository:
-      github: git@github.com:huyongdi/huyongdi.github.io.git
+    #  github: git@github.com:huyongdi/huyongdi.github.io.git
       coding: git@git.coding.net:hyd_dev/hyd_dev.git
   branch: master
 

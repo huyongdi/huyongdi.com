@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc2a9b5f-4f2f-4f5f-993d-912baab94b20" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/滚动条滚到特定位置.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/滚动条滚到特定位置.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/yilia" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yilia" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/yilia/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yilia/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/yilia/source/main.0cf68a.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yilia/source/main.0cf68a.css" afterDir="false" />
     </list>
     <ignored path="huyongdi.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,20 +33,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/yilia/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
+            <state relative-caret-position="521">
               <caret line="120" column="16" selection-start-line="120" selection-start-column="16" selection-end-line="120" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.0cf68a.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/yilia/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="85" column="12" selection-start-line="85" selection-start-column="12" selection-end-line="85" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.0cf68a.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/yilia/source/main.0cf68a.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="139" selection-start-column="139" selection-end-column="139" />
+            <state relative-caret-position="173">
+              <caret column="26638" selection-start-column="26638" selection-end-column="26638" />
             </state>
           </provider>
         </entry>
@@ -67,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/db.json">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="383493" selection-start-column="383493" selection-end-column="383493" />
+              <caret column="393336" selection-start-column="393336" selection-end-column="393336" />
             </state>
           </provider>
         </entry>
@@ -85,7 +109,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>i</find>
       <find>id</find>
       <find>u</find>
       <find>uya</find>
@@ -112,9 +135,10 @@
       <find>4d4d45</find>
       <find>#4d4d4d</find>
       <find>.left-col</find>
-      <find>left-col</find>
       <find>300px</find>
       <find>relative_link</find>
+      <find>left-col</find>
+      <find>yil</find>
     </findStrings>
     <dirStrings>
       <dir>D:\workspace\huyongdi.com</dir>
@@ -176,7 +200,6 @@
         <option value="$PROJECT_DIR$/source/_posts/杂项02.md" />
         <option value="$PROJECT_DIR$/source/_posts/chrom浏览器12px字体.md" />
         <option value="$PROJECT_DIR$/source/_posts/其他bash环境使用git.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/source/_posts/bootstrap源码-弹框垂直居中.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/source/_posts/vue组件通信.md" />
@@ -193,6 +216,7 @@
         <option value="$PROJECT_DIR$/themes/yilia/source-src/css/left.scss" />
         <option value="$PROJECT_DIR$/themes/yilia/_config.yml" />
         <option value="$PROJECT_DIR$/themes/yilia/.gitignore" />
+        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/themes/yilia/source/main.0cf68a.css" />
       </list>
     </option>
@@ -263,6 +287,28 @@
               <item name="themes" type="cbb8eebc:String" user="themes" />
               <item name="yilia" type="cbb8eebc:String" user="yilia" />
             </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="huyongdi.com" type="cbb8eebc:String" user="huyongdi.com" />
+              <item name="themes" type="cbb8eebc:String" user="themes" />
+              <item name="yilia" type="cbb8eebc:String" user="yilia" />
+              <item name="source" type="cbb8eebc:String" user="source" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
+              <item name="D:" type="cbb8eebc:String" user="D:" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
+              <item name="D:" type="cbb8eebc:String" user="D:" />
+              <item name="project" type="cbb8eebc:String" user="project" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -288,19 +334,19 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\project\huyongdi.com\themes\yilia" />
-      <recent name="E:\workspace\huyongdi.com\source\_posts" />
-      <recent name="C:\Users\Grandomics7052\Desktop\workspace\huyongdi.com\themes\yilia\remark" />
-      <recent name="C:\Users\Grandomics7052\Desktop\workspace\huyongdi.com\test\plugin" />
-      <recent name="C:\Users\Grandomics7052\Desktop\workspace\huyongdi.com" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Grandomics7052\Desktop\workspace\huyongdi.com\themes\yilia\remark" />
       <recent name="C:\Users\Grandomics7052\Desktop\workspace\huyongdi.com\test\vue-devtools" />
       <recent name="C:\Users\Grandomics7052\Desktop\workspace\huyongdi.com\test" />
       <recent name="C:\Users\Grandomics7052\Desktop\huyongdi.com\themes" />
       <recent name="C:\Users\Grandomics7052\Desktop\huyongdi.com\es6\webpack" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\huyongdi.com\themes\yilia" />
+      <recent name="E:\workspace\huyongdi.com\source\_posts" />
+      <recent name="C:\Users\Grandomics7052\Desktop\workspace\huyongdi.com\themes\yilia\remark" />
+      <recent name="C:\Users\Grandomics7052\Desktop\workspace\huyongdi.com\test\plugin" />
+      <recent name="C:\Users\Grandomics7052\Desktop\workspace\huyongdi.com" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -520,7 +566,7 @@
       <workItem from="1526450622353" duration="1944000" />
       <workItem from="1526452593216" duration="1215000" />
       <workItem from="1526453892568" duration="9558000" />
-      <workItem from="1526464153261" duration="226000" />
+      <workItem from="1526464153261" duration="2154000" />
     </task>
     <task id="LOCAL-00001" summary="20170504">
       <created>1493886297850</created>
@@ -554,7 +600,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="373907000" />
+    <option name="totallyTimeSpent" value="375835000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -568,15 +614,16 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23972602" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23972602" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.4399368" side_tool="true" visible="true" weight="0.37731734" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.44046363" side_tool="true" visible="true" weight="0.2857143" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49841937" weight="0.32715377" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32752994" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49947312" weight="0.3293348" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.56006324" visible="true" weight="0.37731734" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.55953634" visible="true" weight="0.2857143" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="right" id="Designer" order="3" />
@@ -593,7 +640,6 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49841937" weight="0.32715377" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -744,20 +790,6 @@
     <entry file="file://$PROJECT_DIR$/themes/yilia/remark/remark.json" />
     <entry file="file://$PROJECT_DIR$/themes/yilia/remark/export.json" />
     <entry file="file://$PROJECT_DIR$/themes/yilia/layout/_partial/head.ejs" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="637">
-          <caret line="66" column="20" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/yilia/layout/_partial/after-footer.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -824,7 +856,7 @@
     <entry file="file://$PROJECT_DIR$/db.json">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="383493" selection-start-column="383493" selection-end-column="383493" />
+          <caret column="393336" selection-start-column="393336" selection-end-column="393336" />
         </state>
       </provider>
     </entry>
@@ -884,24 +916,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/yilia/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Roaming/npm/node_modules/cnpm/node_modules/runscript/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
           <caret line="73" column="20" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/yilia/source/main.0cf68a.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="139" selection-start-column="139" selection-end-column="139" />
         </state>
       </provider>
     </entry>
@@ -912,10 +930,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/themes/yilia/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/themes/yilia/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
+        <state relative-caret-position="521">
           <caret line="120" column="16" selection-start-line="120" selection-start-column="16" selection-end-line="120" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="85" column="12" selection-start-line="85" selection-start-column="12" selection-end-line="85" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/yilia/source/main.0cf68a.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret column="26638" selection-start-column="26638" selection-end-column="26638" />
         </state>
       </provider>
     </entry>
