@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="bc2a9b5f-4f2f-4f5f-993d-912baab94b20" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/yilia" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yilia" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/yilia/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yilia/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/yilia/layout/_partial/after-footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yilia/layout/_partial/after-footer.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/yilia/layout/_partial/footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yilia/layout/_partial/footer.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/yilia/layout/_partial/tools.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yilia/layout/_partial/tools.ejs" afterDir="false" />
     </list>
     <ignored path="huyongdi.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,20 +24,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/yilia/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            <state relative-caret-position="1740">
+              <caret line="116" column="12" selection-start-line="116" selection-start-column="12" selection-end-line="116" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/yilia/_config.yml">
+      <file leaf-file-name="windows磁盘上锁.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/windows磁盘上锁.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="123" column="8" selection-start-line="123" selection-start-column="8" selection-end-line="123" selection-end-column="8" />
+            <state relative-caret-position="270">
+              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.html" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Desktop/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="34" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -74,26 +81,17 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="85" column="12" selection-start-line="85" selection-start-column="12" selection-end-line="85" selection-end-column="12" />
+            <state relative-caret-position="1080">
+              <caret line="72" column="12" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/yilia/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.0cf68a.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/yilia/source/main.0cf68a.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret column="30693" selection-start-column="30693" selection-end-column="30693" />
+            <state relative-caret-position="1785">
+              <caret line="119" column="21" selection-start-line="119" selection-start-column="21" selection-end-line="119" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -131,8 +129,8 @@
     <findStrings>
       <find>q</find>
       <find>qq</find>
-      <find>Hexo Theme Yilia by Litten</find>
-      <find>by Litten</find>
+      <find />
+      <find />
       <find>sunshine</find>
       <find>blur</find>
       <find>port</find>
@@ -156,7 +154,7 @@
       <find>yil</find>
       <find>.search-tag.tagcloud</find>
       <find>innerArchive</find>
-      <find>Hexo Theme Yilia by</find>
+      <find />
       <find>Yilia</find>
       <find>hexo-theme-yil</find>
     </findStrings>
@@ -166,7 +164,7 @@
       <dir>C:\Users\Grandomics7052\Desktop\workspace\huyongdi.com\themes</dir>
       <dir>C:\Users\Grandomics7052\Desktop\workspace\huyongdi.com\themes\yilia</dir>
       <dir>C:\Users\Grandomics7052\Desktop\workspace\huyongdi.com\source</dir>
-      <dir>C:\Users\Grandomics7052\Desktop\workspace\huyongdi.com&lt;!-- UY BEGIN --&gt; &lt;div id=&quot;uyan_frame&quot;&gt;&lt;/div&gt; &lt;script type=&quot;text/javascript&quot; src=&quot;http://v2.uyan.cc/code/uyan.js&quot;&gt;&lt;/script&gt; &lt;!-- UY END --&gt;</dir>
+      <dir />
       <dir>C:\Users\Grandomics7052\Desktop\workspace\huyongdi.com</dir>
       <dir>E:\workspace\huyongdi.com\source</dir>
       <dir>E:\workspace\huyongdi.com\public</dir>
@@ -177,7 +175,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/yilia" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -187,8 +185,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/es6/webpack/gongzong" />
-        <option value="$PROJECT_DIR$/source/_posts/来随便聊聊.md" />
         <option value="$PROJECT_DIR$/themes/yilia/source-src/css/tools.scss" />
         <option value="$PROJECT_DIR$/.deploy_git/main.2d7529.css" />
         <option value="$PROJECT_DIR$/source/_posts/vue实现简单的分页功能.md" />
@@ -238,6 +234,8 @@
         <option value="$PROJECT_DIR$/themes/yilia/layout/_partial/tools.ejs" />
         <option value="$PROJECT_DIR$/themes/yilia/layout/_partial/footer.ejs" />
         <option value="$PROJECT_DIR$/themes/yilia/_config.yml" />
+        <option value="$PROJECT_DIR$/source/_posts/windows磁盘上锁.md" />
+        <option value="$USER_HOME$/Desktop/test.html" />
       </list>
     </option>
   </component>
@@ -252,10 +250,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1924" />
-    <option name="height" value="1056" />
+    <option name="y" value="4" />
+    <option name="width" value="959" />
+    <option name="height" value="1034" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -288,7 +285,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -300,6 +296,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -312,7 +309,7 @@
     <property name="editor.config.accepted" value="true" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/scss" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/test.html" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
     <property name="node.js.selected.package.prettier" value="" />
@@ -554,6 +551,7 @@
       <workItem from="1526452593216" duration="1215000" />
       <workItem from="1526453892568" duration="9558000" />
       <workItem from="1526464153261" duration="3951000" />
+      <workItem from="1527647882291" duration="3924000" />
     </task>
     <task id="LOCAL-00001" summary="20170504">
       <created>1493886297850</created>
@@ -601,7 +599,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="377632000" />
+    <option name="totallyTimeSpent" value="383582000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -615,37 +613,37 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23972602" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.115911484" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.4409905" side_tool="true" visible="true" weight="0.27262813" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49789253" weight="0.32715377" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32752994" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49947312" weight="0.3293348" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.44257113" side_tool="true" visible="true" weight="0.23773174" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49947312" weight="0.3293348" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32752994" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.5590095" visible="true" weight="0.27262813" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.5574289" visible="true" weight="0.23773174" />
       <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="right" id="Designer" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Properties" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Inspection Results" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49947312" weight="0.3293348" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info id="Nl-Palette" order="2" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="2" sideWeight="0.49736565" weight="0.32715377" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
       <window_info id="Palette&#9;" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -682,20 +680,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/_posts/几个小知识.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/记录几个问题.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/记录一些知识点.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -714,13 +698,7 @@
     <entry file="file://$PROJECT_DIR$/.deploy_git/2016/10/28/简单记录配置hexo/index.html" />
     <entry file="file://$PROJECT_DIR$/.deploy_git/main.2d7529.css" />
     <entry file="file://$PROJECT_DIR$/themes/yilia/source/main.2d7529.css" />
-    <entry file="file://$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.pack.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="25" column="155" selection-start-line="25" selection-start-column="155" selection-end-line="25" selection-end-column="155" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.pack.js" />
     <entry file="file://$PROJECT_DIR$/.deploy_git/2016/10/28/hexo-coding-域名/index.html" />
     <entry file="file://$PROJECT_DIR$/themes/yilia/webpack.config.js" />
     <entry file="file://$PROJECT_DIR$/scaffolds/page.md">
@@ -792,13 +770,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/landscape/layout/_partial/head.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/landscape/layout/_partial/head.ejs" />
     <entry file="file://$PROJECT_DIR$/source/_posts/杂项04.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -808,8 +780,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/nodejs-express-mysql小全栈遇到的坑.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="135">
+          <caret line="9" column="96" selection-start-line="9" selection-start-column="96" selection-end-line="9" selection-end-column="97" />
         </state>
       </provider>
     </entry>
@@ -843,8 +815,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/yilia/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="184" column="11" selection-start-line="184" selection-start-column="11" selection-end-line="184" selection-end-column="11" />
+        <state relative-caret-position="1785">
+          <caret line="119" column="21" selection-start-line="119" selection-start-column="21" selection-end-line="119" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -906,8 +878,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="85" column="12" selection-start-line="85" selection-start-column="12" selection-end-line="85" selection-end-column="12" />
+        <state relative-caret-position="1080">
+          <caret line="72" column="12" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -917,9 +889,6 @@
           <caret column="30693" selection-start-column="30693" selection-end-column="30693" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/yilia/.editorconfig">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/yilia/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -958,8 +927,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/yilia/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="123" column="8" selection-start-line="123" selection-start-column="8" selection-end-line="123" selection-end-column="8" />
+        <state relative-caret-position="1740">
+          <caret line="116" column="12" selection-start-line="116" selection-start-column="12" selection-end-line="116" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/ES6-入门整理.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/windows磁盘上锁.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="34" selection-end-column="9" />
         </state>
       </provider>
     </entry>
